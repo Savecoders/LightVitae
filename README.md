@@ -55,7 +55,7 @@ docker-compose logs -f sonarqube
 
 ## Testing
 
-The project includes comprehensive tests organized by category:
+The project includes comprehensive tests organized by category con SOnnarqube
 
 ```bash
 # Run all tests
